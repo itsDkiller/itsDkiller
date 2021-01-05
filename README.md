@@ -10,6 +10,6 @@
  <a href="https://github.com/itsDkiller/CO2-Sensor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsDkiller&repo=CO2-Sensor&show_icons=true&theme=vue-dark" />
 </a>
- <a href="https://github.com/itsDkiller/node-rcon-server">
+ <a href="https://github.com/itsDkiller/node-rcon-server/dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsDkiller&repo=node-rcon-server&show_icons=true&theme=vue-dark" />
 </a>
